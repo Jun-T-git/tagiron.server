@@ -11,7 +11,7 @@ docker compose up
 初回のみ
 
 ```
-docker compose up
+docker compose exec api yarn
 ```
 
 # 使用技術
