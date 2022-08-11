@@ -17,8 +17,7 @@ docker compose exec api yarn
 # 使用技術
 
 - Nestjs
-- TypeORM
-- MySQL
+- Redis
 - Docker
 
 # 参考
@@ -31,3 +30,4 @@ https://jelly2games.com/tagiron
 
 https://zenn.dev/senri/articles/331162304a78e0
 https://qiita.com/Gma_Gama/items/407ad2f121f6d01a6361
+https://www.tomray.dev/nestjs-docker-compose-postgres
